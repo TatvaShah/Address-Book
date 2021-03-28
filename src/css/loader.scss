@@ -1,0 +1,21 @@
+.loader{
+  width: 100%;
+}
+.loader-container{
+  display: flex;
+  align-items: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.loader-spinner{
+  margin-right: 10px;
+}
+.loader-text{
+  font-size: 16px;
+}
+.loader-content--fade{
+  opacity: 0.3;
+  pointer-events: none;
+}
