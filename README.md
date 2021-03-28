@@ -23,7 +23,7 @@ This application displays the list of persons from the address book. The user wo
 
 ``` bash
 # clone
-
+git clone https://github.com/TatvaShah/Address-Book.git
 
 # install dependencies
 $ npm install
